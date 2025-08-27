@@ -1,0 +1,501 @@
+user_id,name,age,country,preferred_category,preferred_language,avg_listening_time_min
+1,David Sawyer,17,Finland,Health,French,72
+2,Sylvia Melton,35,Congo,True Crime,Italian,348
+3,Jacqueline Gomez,48,Guinea-Bissau,Health,German,510
+4,Miguel Moreno,46,South Georgia and the South Sandwich Islands,Politics,Chinese,346
+5,David Miranda,60,Myanmar,Politics,German,321
+6,Luis Davis,57,Belize,Science,Italian,230
+7,Katherine Cook,18,Ireland,History,Chinese,187
+8,Carlos Russell,49,Barbados,Technology,Russian,314
+9,James Hernandez,30,Egypt,Sports,English,88
+10,Stephanie Gibbs,54,Saint Pierre and Miquelon,Business,French,516
+11,Gabriela Clayton,57,Nauru,Philosophy,English,258
+12,Kelly Fitzpatrick,56,Togo,Education,Spanish,492
+13,Emily Kane,64,Portugal,Comedy,English,380
+14,Dean Brown,66,Jamaica,Technology,French,169
+15,Joshua Morrison,32,Mauritius,Comedy,Russian,187
+16,Sandra Kirby,25,Western Sahara,Sports,Russian,126
+17,Robert Johnson,28,Albania,Business,English,350
+18,Paige Young,39,Chad,Education,Portuguese,495
+19,Richard Davis,39,Tokelau,History,Russian,496
+20,Amanda Wright,51,Marshall Islands,Technology,Chinese,322
+21,Dennis Savage,59,Hong Kong,News,Hindi,230
+22,Jeffrey Stephens,63,Chile,Society,French,162
+23,Amanda King,16,Liberia,News,Italian,342
+24,Lisa Smith,66,Burundi,Sports,Arabic,270
+25,Mrs. Caitlin Gonzales,48,Andorra,Health,Italian,299
+26,Michelle Brown,21,Grenada,Philosophy,Arabic,579
+27,Timothy Barker,48,Zambia,Politics,Hindi,95
+28,Crystal Roberts,48,New Zealand,Science,Portuguese,77
+29,Abigail Smith,18,Heard Island and McDonald Islands,History,French,226
+30,Nicole Walker,34,Guinea-Bissau,Technology,Hindi,172
+31,Jennifer Lowe,34,Switzerland,History,Portuguese,124
+32,Whitney Smith,42,Marshall Islands,Education,German,67
+33,Crystal Conner,22,Cyprus,Education,Spanish,136
+34,Carla Sanchez,64,Ecuador,Business,Russian,585
+35,Diana Jones,49,Malaysia,True Crime,English,574
+36,Matthew Henry,19,Bulgaria,True Crime,English,544
+37,Jessica Sawyer,45,Rwanda,Business,English,173
+38,Kevin Wagner,64,Slovenia,Politics,French,100
+39,Justin Mercado,29,Central African Republic,Philosophy,French,535
+40,Justin Medina,65,Cocos (Keeling) Islands,Business,Chinese,214
+41,Kelly Terrell,40,Pakistan,Sports,Spanish,490
+42,Harry Aguilar,17,Northern Mariana Islands,Sports,English,524
+43,Jamie Yu,52,Zimbabwe,Music,French,439
+44,Earl Thomas,59,Tokelau,Music,Russian,64
+45,Charles Wright,43,Falkland Islands (Malvinas),Science,Spanish,440
+46,Tim Mckee,17,Montenegro,Business,French,547
+47,Rebecca Smith,45,Gibraltar,Technology,Portuguese,532
+48,David Ortega,30,Greenland,Society,English,231
+49,Jesse Flores,39,Russian Federation,Music,Arabic,432
+50,Kenneth Jacobs,53,Kiribati,Lifestyle,Arabic,60
+51,Michael Barker,19,Ecuador,True Crime,Chinese,537
+52,Daniel Dunlap,34,Sierra Leone,Lifestyle,Portuguese,159
+53,Ashley Camacho,48,Samoa,Technology,Portuguese,177
+54,Jennifer Gill,54,Malta,Comedy,Spanish,407
+55,Anthony Williams,25,Kazakhstan,Philosophy,Italian,314
+56,Theresa Castillo,53,Saint Helena,Music,Chinese,520
+57,Robert Cook,57,Cote d'Ivoire,Education,English,537
+58,Mark Davies,59,Moldova,True Crime,Russian,257
+59,Melissa Wells,37,Switzerland,Comedy,Portuguese,102
+60,Alexandria Davis,38,Lesotho,Comedy,Italian,399
+61,Julie Hartman,64,Netherlands Antilles,Business,Italian,479
+62,Jacob Cervantes,59,Bermuda,True Crime,Spanish,104
+63,Lisa Short,43,Solomon Islands,Health,Italian,146
+64,Sherry Sosa,50,Kazakhstan,Philosophy,German,316
+65,Jeffery Travis,46,Belize,Music,Chinese,93
+66,Hunter Stevenson,17,Peru,Music,Portuguese,530
+67,Joseph Brown,60,French Southern Territories,Politics,English,207
+68,Kelly Dixon,20,Ghana,Comedy,French,479
+69,Billy Garcia,59,Mauritania,Health,Spanish,86
+70,Sarah Brown,61,Bahamas,History,German,196
+71,Jacqueline Norris,62,Panama,Sports,Russian,598
+72,Amber Riley,53,Malta,Music,English,313
+73,Mary Oneill,31,Ethiopia,Business,Portuguese,321
+74,Andrea Stuart,59,Libyan Arab Jamahiriya,Philosophy,Italian,443
+75,Matthew Flores,41,Russian Federation,Comedy,French,330
+76,Steven Ramirez,37,Costa Rica,Music,English,229
+77,Alison Thompson,45,Kiribati,History,Arabic,212
+78,Christina Johnston,44,Monaco,Science,Hindi,315
+79,Jacob Williams,58,Uzbekistan,Science,French,583
+80,Joseph Adams,65,Cook Islands,Politics,German,378
+81,Andrew Vasquez,46,Kyrgyz Republic,History,Spanish,418
+82,Michele Torres,33,Marshall Islands,Philosophy,English,379
+83,Daniel Wells,44,Cyprus,Lifestyle,German,369
+84,Kristen King,31,French Guiana,Sports,Portuguese,573
+85,Alyssa Hunter,42,Belgium,Science,Hindi,100
+86,Gary Barry,37,Cape Verde,Philosophy,Arabic,58
+87,Joshua Smith,50,Guatemala,Education,Italian,403
+88,Joanna Mcdonald,27,Monaco,Health,Hindi,590
+89,Sandra Andersen,68,Lao People's Democratic Republic,Comedy,Italian,299
+90,Gerald Jones,46,Sudan,Technology,Arabic,428
+91,Melanie Wallace,69,Guatemala,History,Russian,125
+92,Geoffrey Weaver,56,French Guiana,History,Chinese,106
+93,Amber Boyle,70,Burundi,Politics,French,513
+94,Melissa Foley,63,United Kingdom,Philosophy,Arabic,83
+95,Kenneth Church,57,Cuba,Education,Russian,195
+96,Amy Dominguez,61,Cote d'Ivoire,Lifestyle,Spanish,528
+97,Ashlee Lyons,56,Central African Republic,Business,German,403
+98,Timothy Haley,39,Georgia,Music,French,200
+99,Autumn Green,29,Japan,Music,Hindi,340
+100,Brandon Carter,52,Lesotho,Philosophy,Spanish,405
+101,Teresa Martin,67,Korea,Comedy,French,302
+102,Nicole Martin,63,Thailand,Sports,German,138
+103,Sheila Bennett,51,Estonia,Philosophy,Spanish,495
+104,Nicholas Young,36,Uruguay,Science,English,389
+105,Shane Lawrence,65,Anguilla,History,English,407
+106,Sylvia Rodriguez,18,Ghana,Business,Portuguese,248
+107,Andrew Foster,18,Chile,Science,Arabic,394
+108,Joel Dalton,69,Tonga,Business,Arabic,489
+109,Dustin Lee,54,Faroe Islands,Technology,Russian,245
+110,Kristie Freeman,57,Singapore,Technology,Spanish,154
+111,Robert Phelps,25,Montenegro,Lifestyle,Italian,271
+112,Bobby Dillon,38,Saint Pierre and Miquelon,Comedy,Chinese,239
+113,Brenda Valdez,52,Lebanon,Business,Chinese,593
+114,Arthur Brown,25,San Marino,Science,Russian,88
+115,Brian Sparks,55,Georgia,History,Italian,361
+116,Charles Patel,36,Martinique,Lifestyle,Chinese,491
+117,Jeremy Mendoza,62,Nicaragua,Music,Chinese,317
+118,Angela King,47,Madagascar,Business,Chinese,160
+119,Austin Hunt,55,Tokelau,Health,German,404
+120,Sarah Hunt,25,Guam,Health,English,70
+121,Travis Brown,53,Myanmar,Health,German,167
+122,Kenneth Yang,24,Congo,Society,Spanish,320
+123,Ryan Black,70,Luxembourg,Politics,Chinese,53
+124,Alex Simpson,32,Korea,News,French,151
+125,Sarah Carpenter,30,Montenegro,Sports,English,441
+126,Brandi Pratt,32,Guam,History,Spanish,464
+127,Gina Bray,63,Bahamas,Philosophy,English,399
+128,Richard Martinez,65,Micronesia,Lifestyle,English,126
+129,Johnathan Turner,46,Pitcairn Islands,Technology,Italian,279
+130,Tiffany Barrett,30,Wallis and Futuna,True Crime,Spanish,540
+131,Adam Callahan,47,Lao People's Democratic Republic,History,Spanish,381
+132,Karen Crawford,30,Somalia,Science,German,551
+133,Thomas Jones,56,Somalia,Business,French,533
+134,Timothy Garza,45,South Africa,News,Italian,182
+135,Linda Garcia,43,Gabon,Technology,German,407
+136,Kimberly Franklin,34,Georgia,True Crime,Arabic,329
+137,Cameron Hodges DDS,18,Singapore,Sports,Chinese,176
+138,Jerome Miller DDS,25,Panama,Music,French,512
+139,Antonio Ellis,39,Indonesia,Society,English,71
+140,Brian Hicks,24,Sierra Leone,Politics,Italian,358
+141,Elizabeth Maxwell,43,Samoa,Society,Portuguese,280
+142,Debra Wheeler,45,Nauru,Sports,Portuguese,124
+143,Bryan Gordon,20,American Samoa,Education,Italian,447
+144,Erica Salazar,66,Armenia,Society,French,166
+145,Jonathan Barnes,59,Iran,Comedy,French,358
+146,Cynthia Davis,53,Mayotte,Comedy,German,93
+147,Tiffany Morrow,26,Iceland,Education,Russian,317
+148,Jeffrey Rodriguez,69,Taiwan,History,Spanish,558
+149,Joseph Mckenzie,37,Cook Islands,History,Italian,285
+150,Jessica Schmidt,22,United Arab Emirates,Sports,Arabic,78
+151,Sarah Atkinson,33,Bulgaria,Education,Portuguese,383
+152,James Rose,27,Cambodia,Health,German,374
+153,Maria Ryan,17,Uzbekistan,Health,Hindi,111
+154,Joseph Glover,65,Guyana,Society,Chinese,236
+155,Cristian Norris,68,Cocos (Keeling) Islands,Politics,Russian,485
+156,Christopher Evans,57,Antigua and Barbuda,History,English,396
+157,Jose Hebert,30,Bhutan,Sports,Spanish,544
+158,David Good,31,Korea,News,Hindi,232
+159,Kayla Mitchell,48,Myanmar,Philosophy,Spanish,273
+160,Tara Andrews,63,Sri Lanka,Business,French,413
+161,Katrina Stafford,17,Montserrat,Science,French,211
+162,Victoria Miller,35,New Zealand,History,Italian,90
+163,Monique Wilson,49,Timor-Leste,News,Hindi,414
+164,Jordan Jefferson,21,Iran,Society,French,495
+165,Kimberly Garrett,36,Lithuania,Education,French,43
+166,Debbie Brewer,33,Panama,Comedy,English,466
+167,Cheryl Young,69,Falkland Islands (Malvinas),Education,German,42
+168,Dean Murillo,29,Ethiopia,News,Russian,518
+169,Katelyn Orr,21,Vanuatu,Science,Russian,159
+170,Jacqueline Johnson,54,Monaco,Politics,Italian,537
+171,Monica Wilson,51,Mauritania,Business,Hindi,176
+172,Daniel White,45,Austria,Comedy,Italian,153
+173,Allison Perez,46,Andorra,Politics,German,43
+174,Gerald Davis,58,Armenia,Science,Arabic,434
+175,Brittany Petersen,58,Cayman Islands,Politics,English,275
+176,Marissa Morrow,25,Maldives,Lifestyle,English,541
+177,Troy Reynolds,22,Cuba,Society,German,463
+178,Jose Coleman,68,Tonga,Education,Arabic,273
+179,Carolyn Bowen,32,Congo,Comedy,Portuguese,483
+180,Heather Young,43,United Arab Emirates,History,Arabic,540
+181,Laura Hartman,55,Benin,Sports,French,546
+182,Melissa Gonzalez,25,Poland,Comedy,Russian,365
+183,Brianna Gardner,48,Jersey,Science,German,250
+184,Jason Nichols,23,Qatar,News,French,46
+185,Michele Hoffman,17,Uruguay,Education,French,105
+186,Donald Williams,30,Palestinian Territory,Sports,Portuguese,57
+187,Angelica Kline,66,Greece,Business,Spanish,598
+188,Anna Smith,18,Western Sahara,Philosophy,English,321
+189,Marie Howard,66,Cambodia,Politics,Italian,296
+190,Heather Martin,44,Suriname,Education,French,355
+191,Crystal Krause,48,Lao People's Democratic Republic,Society,German,382
+192,Samantha Cook,52,Morocco,Philosophy,Chinese,176
+193,Melissa Barnes,57,Taiwan,Lifestyle,Portuguese,116
+194,Lance Stewart,68,Spain,Sports,Russian,456
+195,Holly Haas,32,Cameroon,Business,Italian,183
+196,Dr. Daniel Thompson,33,Korea,Business,Hindi,249
+197,Brian Miller,48,Congo,True Crime,French,153
+198,Cassandra White,29,France,Science,Arabic,336
+199,Christopher Hester,29,Pakistan,Lifestyle,Chinese,158
+200,Kyle Murphy,23,Lao People's Democratic Republic,Sports,German,100
+201,William Duffy,21,Georgia,Politics,Arabic,371
+202,George Montoya,18,Saint Helena,Music,English,573
+203,Amber Hart,57,Angola,Business,Arabic,477
+204,Morgan Hamilton,24,Serbia,Society,Hindi,94
+205,Bonnie Palmer,29,Germany,Education,Spanish,274
+206,Hannah Pratt,28,Panama,Technology,German,389
+207,Thomas Thompson,56,French Polynesia,History,Italian,234
+208,Shaun Wagner,64,Timor-Leste,Politics,Italian,129
+209,Alexandra Watson,42,Bermuda,Politics,English,82
+210,Rodney Brown,43,Tunisia,Society,German,398
+211,William Barker,35,Zambia,History,French,343
+212,Christian Torres,56,Guyana,Lifestyle,Russian,135
+213,Casey Harrison,69,Uruguay,Comedy,Spanish,524
+214,Samuel Booker,47,Syrian Arab Republic,Comedy,Chinese,559
+215,Diane Day,49,United States of America,Science,English,80
+216,Elizabeth Robinson,16,Guinea-Bissau,Music,Chinese,551
+217,Erika Schaefer,23,Malta,Sports,English,543
+218,Shawna Obrien,52,Fiji,Comedy,Chinese,438
+219,Gabriella Alexander,33,Sierra Leone,News,Russian,64
+220,Michael Hayes,27,Cote d'Ivoire,True Crime,Chinese,553
+221,Robert Johnson,36,Uzbekistan,Education,French,591
+222,Dominique Washington,36,Ghana,History,German,557
+223,Lorraine Schmitt,55,Georgia,True Crime,Portuguese,219
+224,Aaron Bryant,68,Jordan,Health,Chinese,177
+225,Robert Stevenson,28,Qatar,Health,French,174
+226,Raymond Hall,37,Trinidad and Tobago,Science,Russian,114
+227,Mark Smith,58,Saint Pierre and Miquelon,Lifestyle,French,172
+228,Sean Shaffer,41,North Macedonia,Sports,Chinese,362
+229,Gary Webb,45,Somalia,Sports,Portuguese,279
+230,Claire Yu,38,Turkey,True Crime,Chinese,265
+231,Bryan Wilson,68,Micronesia,History,Italian,506
+232,Jordan Adkins,16,Hungary,History,English,371
+233,Claudia Mitchell,53,Italy,Philosophy,Arabic,145
+234,David Rodriguez,33,Algeria,Lifestyle,French,146
+235,Jenna Campbell,37,Solomon Islands,Technology,Chinese,427
+236,Jacqueline Navarro,70,Slovakia (Slovak Republic),Comedy,English,139
+237,Robert Rice,49,Pakistan,Music,English,484
+238,Christopher Torres,64,Ukraine,Music,French,586
+239,Kimberly Smith,63,Falkland Islands (Malvinas),Education,German,386
+240,Tamara Day,26,Micronesia,True Crime,Italian,246
+241,Clayton Riddle,23,Brazil,News,Hindi,450
+242,David Cisneros,62,Singapore,Technology,Arabic,337
+243,Jennifer Harvey,32,Yemen,Sports,Chinese,553
+244,Jason Williams,31,Kiribati,Education,Portuguese,462
+245,Kim Blake,16,United Arab Emirates,Sports,French,154
+246,Darren Bryant,50,Sao Tome and Principe,Education,Spanish,342
+247,Krista Allen,47,North Macedonia,History,Russian,52
+248,Mary Benton,44,Greenland,Technology,Spanish,576
+249,Melissa Evans,22,Suriname,Comedy,Arabic,428
+250,Brooke Barnes,63,Western Sahara,True Crime,Spanish,80
+251,Jasmine Beck,21,Sao Tome and Principe,Lifestyle,Hindi,504
+252,Heather Preston,33,Belize,Philosophy,Chinese,58
+253,Jennifer Norman,61,Fiji,Education,French,220
+254,Joshua Romero,49,Guam,Lifestyle,Portuguese,497
+255,Colin Clark,48,Iceland,History,Spanish,78
+256,Travis Williams,25,French Polynesia,Lifestyle,German,112
+257,Mitchell Lewis,37,Denmark,Sports,Hindi,460
+258,Melissa Yu,31,Switzerland,News,Russian,131
+259,Isabella Beck,40,Honduras,Society,Arabic,366
+260,Lynn Rios,60,Paraguay,Business,Russian,118
+261,Stephanie Mitchell,44,Senegal,Music,Arabic,117
+262,Sheila Stephens,56,Djibouti,Comedy,Italian,296
+263,Robert Larson,25,Lesotho,Sports,Spanish,406
+264,Curtis Hernandez,28,French Southern Territories,Comedy,Portuguese,242
+265,Joshua Young,50,Vanuatu,Music,German,565
+266,Alex Chen,39,Netherlands Antilles,Music,Hindi,127
+267,James Ayers,37,Uzbekistan,Comedy,Arabic,463
+268,Cassie Brown,23,Indonesia,True Crime,German,389
+269,Troy Odom,58,Singapore,History,Hindi,94
+270,Robert Thomas,35,Greece,Comedy,French,185
+271,Christopher Martinez,19,Comoros,Politics,Portuguese,408
+272,Ashley Gonzales,67,Libyan Arab Jamahiriya,Health,Chinese,60
+273,Harold Peterson,20,Montserrat,Technology,Chinese,175
+274,Shirley Parks,18,Nauru,Science,Chinese,575
+275,Frederick Willis,22,Cook Islands,History,German,520
+276,Cindy Thornton,58,Libyan Arab Jamahiriya,Science,German,362
+277,Samuel Gordon,68,Cameroon,Music,Portuguese,144
+278,Jennifer Dixon,68,Montserrat,Sports,Spanish,184
+279,Lindsey Pierce,17,New Zealand,Politics,Russian,31
+280,Jeremy Gordon,38,Kuwait,Business,Hindi,101
+281,Bryan Wilson,45,Holy See (Vatican City State),Lifestyle,Portuguese,549
+282,Cynthia Williams,42,Iran,Sports,Spanish,88
+283,Brianna Fischer,58,Yemen,History,Portuguese,398
+284,John Cordova,41,Malaysia,Technology,English,461
+285,Kristin Roberts,28,Saint Helena,Sports,Russian,242
+286,Tyler Maddox,49,Turkey,Technology,Italian,478
+287,Stacy Mason,56,Zimbabwe,Technology,Italian,476
+288,Gloria Scott,68,Burkina Faso,Philosophy,English,163
+289,Jessica Wilson,19,Burundi,Comedy,English,468
+290,Scott Cooley,19,Jamaica,Politics,Spanish,504
+291,Tyler Hardy,21,Norfolk Island,Science,Spanish,549
+292,Christopher Woods,36,Andorra,Lifestyle,Chinese,355
+293,Carly Walker,68,Colombia,Health,Chinese,467
+294,Stefanie Armstrong,32,Indonesia,Music,German,382
+295,Patrick Carroll,17,Russian Federation,Politics,Portuguese,31
+296,Meghan Ponce,64,Dominican Republic,Comedy,English,168
+297,Nicole Franco DDS,67,San Marino,Education,German,578
+298,Sonia Dunlap,21,Sierra Leone,Comedy,English,191
+299,Timothy Morris,29,Latvia,News,Arabic,255
+300,Andrew Estes,51,Bangladesh,Education,Italian,30
+301,Cory Evans,22,Tuvalu,Comedy,Portuguese,478
+302,Eileen Sutton,18,Senegal,Health,English,494
+303,Sara Johnson,53,Belarus,History,Arabic,133
+304,Michael Davis,49,Sao Tome and Principe,History,Hindi,469
+305,Sabrina Case PhD,69,Finland,Lifestyle,Arabic,183
+306,Shane Nash,51,Nigeria,Science,Spanish,377
+307,Kathleen Bautista,34,Papua New Guinea,Lifestyle,English,459
+308,Laurie Rose,24,Cuba,Science,Hindi,114
+309,Christopher Morrow,50,Maldives,Health,Hindi,98
+310,Anthony Porter,23,Guadeloupe,Business,English,520
+311,Elizabeth Hanson,23,Japan,Music,Russian,408
+312,Erica Bishop,62,Kyrgyz Republic,History,English,444
+313,Jonathan Blackwell,26,Guam,True Crime,Spanish,594
+314,Natalie Rivera,23,Macao,History,Russian,398
+315,Andre Wilkinson,28,Chad,Business,Chinese,564
+316,Erin Johnson,26,Mexico,Comedy,English,272
+317,Robert Marshall,67,Solomon Islands,Health,Spanish,580
+318,Pedro Arnold,27,Ireland,Politics,English,462
+319,Faith Burns,28,Sudan,Education,French,69
+320,Steve Hernandez,66,Belarus,Philosophy,English,114
+321,Rhonda Blair,52,Reunion,Politics,Arabic,439
+322,Christian Neal,18,Sierra Leone,Society,Russian,87
+323,Diana Bullock,17,Mauritius,History,Portuguese,540
+324,Cheryl Henson,69,Congo,Technology,Chinese,596
+325,Richard Crawford,29,Burundi,Education,Italian,520
+326,Heather Mitchell,17,Tunisia,Philosophy,Italian,520
+327,Isabel Taylor,67,Aruba,Society,Italian,299
+328,Scott Brown,68,Aruba,Technology,Portuguese,49
+329,Loretta Robinson,35,Georgia,News,Portuguese,61
+330,Angela Padilla,51,Pitcairn Islands,Education,Chinese,159
+331,Kimberly Charles,24,Thailand,Sports,German,420
+332,Brenda Boyd,47,Greece,Comedy,Portuguese,598
+333,Nicholas Hill,21,Zambia,Sports,English,227
+334,Diane Diaz,36,Congo,Comedy,German,246
+335,Lisa Sanders,48,Slovenia,Comedy,Spanish,37
+336,Sue Camacho,58,Kuwait,Politics,Russian,471
+337,Christine Morgan,54,Cote d'Ivoire,Politics,Arabic,514
+338,James Mitchell,48,South Georgia and the South Sandwich Islands,Education,Arabic,102
+339,Tyler Costa,62,Cayman Islands,Science,Hindi,192
+340,Brian Dyer,28,Ecuador,Science,English,415
+341,Lisa Adams,48,United Arab Emirates,Philosophy,Chinese,230
+342,Lance Reynolds,36,Congo,History,Hindi,98
+343,Wendy Harvey,20,Libyan Arab Jamahiriya,History,German,295
+344,Benjamin Jenkins MD,32,Svalbard & Jan Mayen Islands,Health,Portuguese,516
+345,Eric Arroyo,62,Azerbaijan,Politics,German,254
+346,Emily Jacobs,62,United States of America,Lifestyle,Hindi,67
+347,Carmen Leon,36,South Africa,Philosophy,Hindi,249
+348,Samantha Butler,62,Lithuania,Music,Hindi,412
+349,Valerie Johnson,70,Albania,Lifestyle,Arabic,157
+350,Ashley Nguyen,65,Saint Vincent and the Grenadines,Comedy,Italian,58
+351,Nathan Harris III,23,Paraguay,True Crime,Spanish,167
+352,Ryan Gallagher,35,Montenegro,Sports,Italian,236
+353,Lucas Martin,45,India,Sports,Hindi,143
+354,Heidi Houston,70,Madagascar,Politics,Portuguese,506
+355,Cynthia Morrison,69,Latvia,Society,Italian,272
+356,John Johnson,44,Montenegro,Business,Russian,559
+357,Adam Reynolds,23,Botswana,Lifestyle,Portuguese,115
+358,Laura Mendoza,35,Qatar,Lifestyle,Arabic,368
+359,Mark Waller,39,Kiribati,Education,Chinese,52
+360,Katherine Hall,30,Sri Lanka,Politics,English,222
+361,Jack Kelly,70,Libyan Arab Jamahiriya,Technology,German,264
+362,Carolyn Willis,59,Somalia,Philosophy,Russian,495
+363,Frances Michael,17,Maldives,Philosophy,Spanish,115
+364,Hannah Campbell,70,Netherlands,Education,Spanish,529
+365,Jose Turner,18,Micronesia,Technology,German,317
+366,Lauren Burke,66,Ecuador,Politics,French,341
+367,Dr. Kim Blanchard,35,Micronesia,Comedy,Russian,380
+368,Matthew Smith,64,Switzerland,Lifestyle,Arabic,483
+369,Elizabeth Douglas,37,Nauru,Society,Italian,392
+370,Desiree Bradford,33,United States Virgin Islands,Politics,Chinese,179
+371,Amanda Lane,60,Tanzania,Technology,Hindi,390
+372,Jessica Robinson,64,Libyan Arab Jamahiriya,Education,Italian,223
+373,Gabriela Fuentes,31,Algeria,News,German,111
+374,Vanessa Frank,67,Poland,Music,English,122
+375,Jonathan Lawrence,40,Kyrgyz Republic,History,Arabic,130
+376,Julie Rice,23,French Southern Territories,Health,Spanish,161
+377,Cindy Harris,39,Belize,Politics,German,565
+378,Stephen Mason,29,Kiribati,Lifestyle,Chinese,268
+379,Taylor Yu,58,Cook Islands,Education,Chinese,347
+380,Cindy Tucker,55,Austria,Technology,Chinese,39
+381,Tyler Watson,66,New Zealand,Philosophy,German,541
+382,Amber Anderson,36,Bosnia and Herzegovina,Society,Arabic,142
+383,Stacy Thomas,58,Nigeria,News,Italian,470
+384,Angela Villanueva,32,Lithuania,History,Arabic,402
+385,Ryan Travis,56,Dominican Republic,Society,Russian,258
+386,Christopher Robinson,31,Czech Republic,Comedy,English,332
+387,Chris Rodriguez,23,Korea,Music,Italian,573
+388,Vanessa Pope,56,Gibraltar,News,English,464
+389,Kathleen Newman,35,Paraguay,Politics,Spanish,599
+390,Eric Miller,27,Switzerland,Music,English,366
+391,Mary Nelson,62,Qatar,Health,French,479
+392,Michael Smith,61,Iraq,Business,Portuguese,519
+393,Jeffrey Ross,48,Montenegro,Science,German,495
+394,Carol Pham,18,Germany,Comedy,Chinese,495
+395,Gregory Bray,50,Rwanda,Sports,Italian,214
+396,Pamela Malone,34,Solomon Islands,Society,English,530
+397,Diana James,65,Lithuania,News,Hindi,283
+398,Kyle Ramirez,51,Barbados,History,Arabic,197
+399,Jennifer Hill,57,Madagascar,Health,Hindi,587
+400,Melinda Hartman,42,Madagascar,Philosophy,English,518
+401,Bradley Lawrence,60,Burundi,Lifestyle,Chinese,247
+402,Ryan Ramsey,43,Cambodia,Sports,Italian,487
+403,Terry Henderson,17,United States Minor Outlying Islands,News,German,439
+404,Morgan Austin,53,Gambia,True Crime,Arabic,357
+405,Brittany Garcia,18,Barbados,Comedy,French,109
+406,Jasmine Erickson,20,Burkina Faso,Politics,Arabic,546
+407,Karen David,44,Benin,Music,German,393
+408,Kristin Patterson,34,Equatorial Guinea,Philosophy,German,65
+409,Megan Nixon,32,Tajikistan,Lifestyle,Portuguese,420
+410,Christopher Davis,28,Myanmar,Sports,English,600
+411,Gregory Jones,57,Macao,Technology,Hindi,213
+412,Daniel Ware,23,Moldova,Sports,German,403
+413,Betty Henson,67,Ecuador,Health,Spanish,289
+414,John Thomas,59,Belarus,Lifestyle,Russian,353
+415,Hunter Ford,46,Bouvet Island (Bouvetoya),Comedy,German,386
+416,Linda Valdez,64,Netherlands,Lifestyle,Russian,527
+417,Kevin Jackson,70,Sweden,Sports,French,453
+418,Jessica Smith,48,Turkey,Business,Hindi,412
+419,Johnny Macias,62,Guinea-Bissau,Music,Russian,536
+420,John Paul,19,Reunion,Comedy,Italian,116
+421,Brian Martinez,62,South Africa,Society,Arabic,163
+422,Timothy White,64,France,Philosophy,Hindi,348
+423,Patricia Burton,40,Mongolia,Business,French,108
+424,Susan Lopez,27,Ukraine,Politics,Hindi,579
+425,Jessica Simpson,50,Fiji,Technology,Portuguese,581
+426,Lisa Williams,29,Mauritania,Philosophy,German,207
+427,Christina Carroll,53,Serbia,Health,German,240
+428,Jon Gross,40,Paraguay,Music,Italian,519
+429,Mark Harris,28,El Salvador,Health,Portuguese,124
+430,Victor Fox,44,Zimbabwe,True Crime,French,234
+431,Kaylee Montgomery,62,Denmark,Society,Portuguese,462
+432,Nicole Holden,37,Montserrat,Sports,Russian,343
+433,Dana Goodwin,63,Yemen,Music,Russian,511
+434,Tara Ramirez,42,Cocos (Keeling) Islands,Sports,English,284
+435,Laura Harper,57,Barbados,Society,English,96
+436,Donna Brown,33,Turkey,Comedy,English,189
+437,Matthew Casey,32,Guatemala,Society,Italian,209
+438,Patricia Mills,18,South Africa,Business,Russian,143
+439,Tyler Richmond,52,Russian Federation,Technology,French,60
+440,Michael Romero,17,Vietnam,News,English,491
+441,Robert Woods,50,Belgium,Health,Spanish,472
+442,Glen Howell,20,Malaysia,Philosophy,Chinese,509
+443,Ryan Singh,36,Fiji,Music,Portuguese,90
+444,Austin Lynch,40,Cape Verde,Comedy,Chinese,533
+445,Kevin Fitzgerald,32,Niue,True Crime,Russian,594
+446,Michael Wright,39,Norway,Sports,Arabic,322
+447,Daniel Clark,58,Chad,News,French,505
+448,Rachel Long,48,Yemen,Philosophy,Russian,135
+449,Matthew Robbins,68,Iceland,Lifestyle,Chinese,464
+450,Natalie Baker,46,South Georgia and the South Sandwich Islands,Health,Portuguese,497
+451,Cameron Spencer,37,Zambia,News,Chinese,315
+452,Angela Stevenson,35,Tuvalu,Society,Italian,217
+453,Jason Valdez,56,Honduras,Philosophy,German,444
+454,Victor Bowman,32,Cyprus,Lifestyle,Hindi,401
+455,Sandra Maddox,35,Anguilla,Sports,Italian,557
+456,Anthony Newton,26,Cuba,Society,Italian,437
+457,Ann Jones,61,Bermuda,Comedy,Spanish,288
+458,Laura Kim,43,Togo,Comedy,Chinese,583
+459,Cynthia Blackburn,30,Bouvet Island (Bouvetoya),Sports,Arabic,447
+460,Patricia Turner,22,Haiti,Sports,Chinese,381
+461,Dr. Melanie Carroll,67,Romania,Education,Portuguese,227
+462,Jeremiah Pope PhD,65,North Macedonia,Comedy,French,144
+463,Scott Rojas PhD,63,Angola,Philosophy,German,318
+464,Shawn Jordan,21,Netherlands Antilles,News,Chinese,162
+465,Derrick Smith,27,Falkland Islands (Malvinas),Philosophy,Russian,600
+466,Nicole Stanton,19,Vanuatu,News,Russian,311
+467,Heidi Young,17,Heard Island and McDonald Islands,Sports,Spanish,80
+468,Monica Fischer,26,Tonga,Business,French,333
+469,Justin Rivers,47,Uruguay,Science,Spanish,374
+470,Jose Krueger,21,Western Sahara,Politics,Hindi,427
+471,Matthew Carter,54,North Macedonia,Politics,German,251
+472,Patricia Hughes,35,Latvia,Technology,Italian,189
+473,Isaac Moran,48,Faroe Islands,Sports,Russian,450
+474,Jessica Reese,38,Tonga,Science,Italian,412
+475,Gerald Smith,56,Morocco,True Crime,English,540
+476,Sandra Torres,34,Yemen,Comedy,Spanish,599
+477,Brittany Gordon,31,Bosnia and Herzegovina,Science,Spanish,373
+478,Caroline Decker,66,Trinidad and Tobago,Education,French,156
+479,Brandon Carpenter,44,Mauritius,Health,Hindi,216
+480,David Hartman,28,Swaziland,True Crime,Russian,328
+481,Joseph Ellis,53,Uganda,Health,Russian,74
+482,Charles Smith,18,Uzbekistan,Sports,Italian,128
+483,Jacob Wood,55,Thailand,Comedy,English,495
+484,Caleb Barnes,20,Kiribati,News,Chinese,309
+485,Kathleen Clayton,28,Georgia,Health,Russian,292
+486,Brittney Russell,17,Mauritania,Science,English,346
+487,Nicole Quinn,39,Fiji,Business,Italian,478
+488,Jeffrey Smith,27,South Africa,Education,French,143
+489,Rachel Harrison,68,Congo,Philosophy,Hindi,182
+490,Sandra Roberts,29,Vanuatu,Science,English,81
+491,Renee Savage,20,Montenegro,Business,Portuguese,522
+492,Amanda Solomon,42,Azerbaijan,Technology,Russian,389
+493,Gerald Martinez,30,Iran,History,German,134
+494,Richard Wilson,23,Falkland Islands (Malvinas),Music,German,202
+495,Laura Knapp,19,Bouvet Island (Bouvetoya),Health,Portuguese,228
+496,Brian Caldwell,66,Saint Kitts and Nevis,Philosophy,Arabic,524
+497,Shirley Bray,50,Bahrain,True Crime,Spanish,191
+498,Jonathan Guerrero,44,Montenegro,Music,Chinese,85
+499,Richard Bush,24,El Salvador,Education,German,353
+500,Isabel Harding,37,Guinea-Bissau,News,German,506
